@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { siteConfig } from "@/config/site";
-import botLogo from "@/assets/bot-logo.png";
+import botLogo from "@/assets/bot-logo.jpg";
 
 export const Footer = () => {
   return (

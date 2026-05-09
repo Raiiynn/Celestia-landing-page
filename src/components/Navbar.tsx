@@ -5,7 +5,7 @@ import { useState } from "react";
 import { siteConfig } from "@/config/site";
 import { ThemeToggle } from "./ThemeToggle";
 import { Button } from "./ui/button";
-import botLogo from "@/assets/bot-logo.png";
+import botLogo from "@/assets/bot-logo.jpg";
 
 export const Navbar = () => {
   const [open, setOpen] = useState(false);

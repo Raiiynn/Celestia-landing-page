@@ -12,7 +12,7 @@ export const siteConfig = {
     users: "2468",
     commands: 45,
     uptime: "99.99%",
-    inviteUrl: "https://discord.com/oauth2/authorize",
+    inviteUrl: "https://discord.com/oauth2/authorize?client_id=1370677746233249875&permissions=0&integration_type=0&scope=bot",
     supportUrl: "https://discord.gg/celestia",
   },
 

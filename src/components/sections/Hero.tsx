@@ -3,7 +3,7 @@ import { ArrowRight, Sparkles } from "lucide-react";
 import { useRef } from "react";
 import { Button } from "@/components/ui/button";
 import { siteConfig } from "@/config/site";
-import botLogo from "@/assets/bot-logo.png";
+import botLogo from "@/assets/bot-logo.jpg";
 
 export const Hero = () => {
   const stageRef = useRef<HTMLDivElement>(null);
